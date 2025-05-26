@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "RiskAnalytics.Api.Controllers.MarketController",
+    "Method": "GetBonds",
+    "RelativePath": "api/market/bonds",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RiskAnalytics.Api.Controllers.MarketController",
+    "Method": "GetLastUpdate",
+    "RelativePath": "api/market/lastUpdate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RiskAnalytics.Api.Controllers.MarketController",
+    "Method": "GetRates",
+    "RelativePath": "api/market/rates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
